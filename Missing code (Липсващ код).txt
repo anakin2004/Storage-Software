@@ -1,0 +1,26 @@
+За съжаление кода по проекта не е достъпен, поради неочаквани обстоятелства,
+заради които изгубих по-голямата част от паметта си.
+
+	Накратко за проекта:
+Използвайки Python, Tkinter и вградената база данни sqlite3 започнах да
+разработвам проект "Складов софтуер", в който можеше да се продават
+и купуват артикули като в зависимост от бройката и вида артикул клиента или
+склада получава/-т намаление за покупка на едро. Всеки артикул има собствен номер, снимка,
+цена, налична бройка и други данни. Клиентът е ограничен да поръчва до 6 вида
+артикула от склада, като преди да се потвърди транзакцията му се извежда касова бележка
+с крайната цена. В приложената снимка може да разгледате цялостната идея за проекта, 
+където и повечето неща са посочени. Тя е ползвана за Project Setup шаблон.
+------------------------------------------------------------------------------------------
+
+Unfortunately, the project code is not available due to unforeseen circumstances,
+which resulted in the loss of most of my data.
+
+	Briefly about the project: 
+Using Python, Tkinter, and the built-in sqlite3 database, I started developing a 
+project called "Inventory Software," where items could be bought and sold. Depending
+on the quantity and type of item, the customer or the warehouse would receive a 
+discount for bulk purchases. Each item has its own number, image, price,
+available quantity, and other details. The customer is limited to ordering up to 6 types
+of items from the warehouse. Before the transaction is confirmed, a receipt is displayed
+with the final price. In the attached image, you can view the overall idea of the project,
+where most things are highlighted. It was used as a Project Setup template.
