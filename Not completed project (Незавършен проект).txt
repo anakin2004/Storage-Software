@@ -1,5 +1,6 @@
-За съжаление кода по проекта не е достъпен, поради неочаквани обстоятелства,
-заради които изгубих по-голямата част от паметта си.
+За съжаление това е последния вариант на проекта, които имам запазен на компютъра.
+В този сейв не е решено все още дали да се раздели екранът на пиксели или на
+решетка.
 
 	Накратко за проекта:
 Използвайки Python, Tkinter и вградената база данни sqlite3 започнах да
@@ -12,8 +13,9 @@
 където и повечето неща са посочени. Тя е ползвана за Project Setup шаблон.
 ------------------------------------------------------------------------------------------
 
-Unfortunately, the project code is not available due to unforeseen circumstances,
-which resulted in the loss of most of my data.
+Unfortunately, this is the last save i have on my computer regarding this project.
+In the save I still haven't decided weather to fully switch to pixel-oriented layout or
+grid one.
 
 	Briefly about the project: 
 Using Python, Tkinter, and the built-in sqlite3 database, I started developing a 
